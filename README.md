@@ -4,71 +4,57 @@
 
 </div>
 
-Full-stack developer based in İzmir, Turkey. I've spent the last 5 years building enterprise web and mobile products in Agri-Tech, Textile, and B2B SaaS — most of them from scratch, most of them still running.
+Full-stack developer based in İzmir, Turkey. Over the last 5 years I've built enterprise web products in Agri-Tech, Textile, and B2B SaaS — most of them from scratch, most of them still running.
 
-Right now I'm deep into an ASP.NET Core MVC e-commerce platform. EF Core migrations and image management have a way of turning into 3am problems, but watching a Clean Architecture come together makes it worth it.
-
-[![GitHub](https://img.shields.io/badge/GitHub-fatihkaradag-181717?style=flat-square&logo=github)](https://github.com/fatihkaradag)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffatihkaradag-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/ffatihkaradag)
-![Location](https://img.shields.io/badge/İzmir,_Turkey-🇹🇷-30363d?style=flat-square)
-![Status](https://img.shields.io/badge/Available_for_Freelance-✅-238636?style=flat-square)
+[![GitHub](https://img.shields.io/badge/GitHub-fatihkaradag-181717?style=flat-square&logo=github)](https://github.com/fatihkaradag)
+![Status](https://img.shields.io/badge/Freelance_%26_Full--time-Open-238636?style=flat-square)
+
+---
+
+## What I'm working on
+
+- E-commerce platform on ASP.NET Core MVC — Clean Architecture, EF Core, Stripe integration
+- Service-based backend architecture experiments with FastAPI
+- Local-to-prod environment parity with Docker Compose
+
+---
+
+## Tech Stack
+
+**Backend:** PHP / Laravel · ASP.NET MVC / .NET Core · Python / FastAPI  
+**Frontend:** Next.js · TypeScript · Tailwind CSS  
+**Databases:** MySQL · PostgreSQL · MSSQL · Redis  
+**Infrastructure:** Docker · Docker Compose · Linux VPS · AWS (basic)
+
+---
+
+## Where I'm strongest
+
+Backend-heavy. API design, data modeling, service integration — that's where I'm most comfortable. On the frontend I can ship functional, clean UIs with Next.js + Tailwind, but I'm not a UI/UX designer and I know where that line is.
 
 ---
 
 ## Things I've shipped
 
-Some concrete stuff, without the marketing language:
-
-- Automated a content production pipeline with LLM + Python — the team now does the same work in 40% less time.
+- Built a content production pipeline with LLM + Python — the team now does the same work in 40% less time.
 - Added a Redis cache layer to high-traffic endpoints and cut query latency by 25%.
-- Kept a certification system running at 99.9% uptime for 50K+ monthly active users. Woke up at night for it once.
-- Built a multi-tenant B2B SaaS architecture that handles 10K+ concurrent requests without breaking a sweat.
-
----
-
-## Tech stack
-
-What I actually work with day to day:
-
-**Backend:** PHP / Laravel · ASP.NET MVC / .NET Core · Python (Django / FastAPI)
-
-**Frontend:** Next.js · TypeScript
-
-**Databases:** MySQL · PostgreSQL · MSSQL · Redis
-
-**Infrastructure:** AWS · Docker · Linux · CI/CD
-
----
-
-## Current project
-
-### 🛒 [ASP.NET Core MVC E-Commerce](https://github.com/fatihkaradag/aspnetcore-mvc-ecommerce)
-
-A full-featured e-commerce app built on .NET 10, Entity Framework Core, and ASP.NET Core Identity. N-tier architecture, Repository Pattern, Stripe integration, cart and order management. Part learning exercise, part portfolio — trying to keep the code honest.
-
----
-
-## GitHub
-
-<div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=fatihkaradag&theme=tokyonight&hide_border=false&stroke=ffa657&ring=ffa657&fire=ffa657&currStreakLabel=ffa657" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatihkaradag&bg_color=0d1117&color=ffa657&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" />
-</div>
+- Kept a certification system running at 99.9% uptime for 50K+ monthly active users. Woke up once at night for it.
+- Built a multi-tenant B2B SaaS architecture handling 10K+ concurrent requests without breaking a sweat.
 
 ---
 
 ## Get in touch
 
-Open to freelance projects, long-term collaborations, or just talking through a technical problem.
+Open to freelance projects and full-time roles. LinkedIn is the fastest way to reach me — happy to talk through a technical problem too.
 
-<div align="center">
-  <a href="https://linkedin.com/in/ffatihkaradag"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ffatihkaradag)
 
 ---
+
+<div align="center">
+  <img width="100%" src="https://streak-stats.demolab.com?user=fatihkaradag&theme=tokyonight&hide_border=false&stroke=ffa657&ring=ffa657&fire=ffa657&currStreakLabel=ffa657" />
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
