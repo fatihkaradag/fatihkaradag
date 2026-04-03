@@ -9,7 +9,7 @@ Full-stack developer based in İzmir, Turkey. I've spent the last 5 years buildi
 Right now I'm deep into an ASP.NET Core MVC e-commerce platform. EF Core migrations and image management have a way of turning into 3am problems, but watching a Clean Architecture come together makes it worth it.
 
 [![GitHub](https://img.shields.io/badge/GitHub-fatihkaradag-181717?style=flat-square&logo=github)](https://github.com/fatihkaradag)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fatihkaradag-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/ffatihkaradag)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffatihkaradag-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/ffatihkaradag)
 ![Location](https://img.shields.io/badge/İzmir,_Turkey-🇹🇷-30363d?style=flat-square)
 ![Status](https://img.shields.io/badge/Available_for_Freelance-✅-238636?style=flat-square)
 
